@@ -3,6 +3,8 @@ Welcome to Fiix's API Exercise.
 
 This will teach you how to use Fiix's API.
 
+minor tweak
+
 ## Setting up:
 
 Download the [latest JDK from Adopt Open JDK](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot)
